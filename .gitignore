@@ -1,0 +1,11 @@
+# Ignore IPython Notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore python cache
+.__pycache__/
+
+# Ignore the Emotion AI Dataset folder
+Healthcare AI Datasets/
+
+# Ignore pycache
+__pycache__/
