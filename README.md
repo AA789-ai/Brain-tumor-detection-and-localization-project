@@ -39,5 +39,5 @@ The project can be divided into the following parts:
 Here is a sample image of our project:
 ![image](https://github.com/AA789-ai/TumorDetection/assets/97749196/2281e5bf-5bdc-4cf1-9f59-823604cae59a)
 
-I will let the results speak for itself ;)
+I will let the results speak for themselves ;)
 
