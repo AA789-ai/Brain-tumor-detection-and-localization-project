@@ -36,7 +36,7 @@ The project can be divided into the following parts:
       d. Brain MRI with Original Mask: This image combines the MRI and the brain tumor which is colored in red.
       e. MRI with AI predicted Mask: This image combines the MRI scan and the brain tumor which is colored in green.
 
-Here are some some sample images:
+Here is a sample image of our project:
 ![image](https://github.com/AA789-ai/TumorDetection/assets/97749196/2281e5bf-5bdc-4cf1-9f59-823604cae59a)
 
 As we can see, our model's ability to localize tumors is very similar to the actual tumor. For more details, please feel free to visit my MRI.ipynb file.
