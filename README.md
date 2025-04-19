@@ -69,6 +69,6 @@ The following image shows an example of the segmentation model's output:
 
 ![Sample Segmentation Result](https://github.com/AA789-ai/TumorDetection/assets/97749196/2281e5bf-5bdc-4cf1-9f59-823604cae59a)
 
-*(Caption suggestion: Example showing (a) Brain MRI, (b) Original Mask, (c) Predicted Mask by AI, (d) MRI with Original Mask overlay, (e) MRI with AI Predicted Mask overlay)*
+*Example showing (a) Brain MRI, (b) Original Mask, (c) Predicted Mask by AI, (d) MRI with Original Mask overlay, (e) MRI with AI Predicted Mask overlay*
 
 **Note:** Detailed visualizations, including comparisons between original and predicted masks overlaid on MRI scans for multiple examples, can be generated and viewed by running the `MRI.ipynb`
