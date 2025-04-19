@@ -63,6 +63,12 @@ The project workflow is divided into common preprocessing steps followed by spec
 * **Classification:** The ResNet-50 based classification model achieved **~98% accuracy** in distinguishing between MRI scans with and without tumors on the test dataset.
 * **Segmentation:** The custom ResUNet model effectively localizes tumors. Visual assessments demonstrate a high degree of overlap between the predicted masks and the ground truth masks.
 
+* Classification Performance (Confusion Matrix):**
+![Confusion Matrix for Tumor Classification](https://github.com/user-attachments/assets/68481455-a16e-4477-b590-62c1cfec3135)
+*Confusion matrix for the tumor classification model (Tumor=1, No Tumor=0). Shows high accuracy (~97.7%) with low false positives (1) and few false negatives (12).*
+
+
+
 **Sample Segmentation Output:**
 
 The following image shows an example of the segmentation model's output:
